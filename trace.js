@@ -1,5 +1,5 @@
 /*!!
- * Trace <http://github.com/svetli/trace>
+ * Trace <http://github.com/svetli/jstrace>
  * @author Svetli Nikolov
  * @version 1.0.0 (2013/1/12 11:19 PM)
  * Released under the MIT License
